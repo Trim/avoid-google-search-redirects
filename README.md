@@ -1,5 +1,8 @@
 # Avoid Google Search redirects
 
+# This repository and extension is not maintained any more.
+# Please use the [Google Direct](https://addons.mozilla.org/en-US/firefox/addon/google-direct/) which maintains this code.
+
 ## Introduction
 
 This add-on avoids Google Search to track you with redirect links.
